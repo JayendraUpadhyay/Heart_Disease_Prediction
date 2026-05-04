@@ -9,12 +9,6 @@ A Machine Learning web application that predicts the risk of heart disease based
 
 ---
 
-## 📸 App Preview  
-<!-- Apna screenshot yaha daal sakte ho -->
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Heart+Disease+Prediction+App)
-
----
-
 ## 📌 Features
 - 🔍 Predicts heart disease risk instantly  
 - 📊 Machine Learning based prediction  
